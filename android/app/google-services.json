@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151348566674",
+    "project_id": "c-movil-app",
+    "storage_bucket": "c-movil-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151348566674:android:93f46d42d788ff1dc8a44b",
+        "android_client_info": {
+          "package_name": "com.example.c_movil_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151348566674-hr0rmu65sn4adjgmbfeg364r669m3nj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZAYgK0SZpAtG7LMVI4V6l2blZAzo5M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151348566674-hr0rmu65sn4adjgmbfeg364r669m3nj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
